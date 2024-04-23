@@ -3,7 +3,6 @@
 <body>
  
 <?php
-echo "Login PHPjj";
 ?>
 
 </body>
